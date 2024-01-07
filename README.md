@@ -19,6 +19,7 @@ This industrial talk, which was presented by CLARITY TECHWORKS SDN BHD, was very
 
 ### o ASSIGNMENT 4 {industrial visit)
 
-### o PC ASSEMBLE                                                                                                                                                                                            As a computer science major specializing in software engineering, it is not enough for me to be proficient in programming, coding, or software development; I also need to be well-versed in computer hardware.Therefore, in this PC Assembly, i have learnt how to reassemble and assemble PC. For instance, i now can take off the power supply, RAM, Fan and other parts also. As a result, I think this PC Assembly is incredibly beneficial for computer science students in order to produce high-quality employees. 
+### o PC ASSEMBLE                                                                                                                                                                                                                                                                                                     
+As a computer science major specializing in software engineering, it is not enough for me to be proficient in programming, coding, or software development; I also need to be well-versed in computer hardware.Therefore, in this PC Assembly, i have learnt how to reassemble and assemble PC. For instance, i now can take off the power supply, RAM, Fan and other parts also. As a result, I think this PC Assembly is incredibly beneficial for computer science students in order to produce high-quality employees. 
 
 ### o DESIGN THINKING ( FINAL PROJECT)
