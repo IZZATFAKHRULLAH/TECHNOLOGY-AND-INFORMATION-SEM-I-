@@ -16,6 +16,7 @@ This industrial talk, which was presented by CLARITY TECHWORKS SDN BHD, was very
 -After this visit, i can now envision what my future in the field of computer science will look like. They showed us around their workplace, meeting rooms, what it's like to work in a team, and how the working environments feels. Futhermore, i began to comprehend this course more fully because i learned a lot of ICT things from them, like how to maintain servers and how security system protect confidential data.  
  
 ### o ASSIGNMENT 3 (industrial talk : System development at CREDENCE (TM SUBSIDIARIY))
+-Based on what I learned from the talk, I need to continue improving my skills during my four years of study by learning in different languages of programming and expanding my understanding of ICT. I also need to get acquainted to the technology that the industry uses these days. Futhermore, I also need to work more on honing my social skills and improving my confident because these are critical abilities needed in order to become a high quality of system developers. i can’t wait to see what will i become in the next coming years as a computer science student especially after hearing these golden advices and tips from Ms Qistina! 
 
 ### o ASSIGNMENT 4 {industrial visit)
 
